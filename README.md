@@ -8,6 +8,6 @@ Aqui está algumas das minhas redes sociais e formas de contatos:
 
 Sou Leticia Campos, desenvolvedora de software, entusiasta de tecnologia e participante ativa de meetups, bootcamps e workshops.
 
-- :woman: 25 anos, formada em gestão da tecnologia da informação pela <strong>unicsul</strong> e análise e desenvolvimento de sistemas pela <strong>fatec</strong>.
-- :briefcase: Desenvolvedor<i>a</i> na <strong>@totvs</strong>.
-- :books: Venho direcionando os meus estudos em desenvolvimento web e aqui você vai encontrar diversos projetinhos desenvolvidos em Javascript, Typescript, React, Angular e NodeJs.
+👩 25 anos, formada em gestão da tecnologia da informação pela <strong>unicsul</strong> e análise e desenvolvimento de sistemas pela <strong>fatec</strong>.
+💼 Desenvolvedor<i>a</i> na <strong>@totvs</strong>.
+📚 Venho direcionando os meus estudos em desenvolvimento web e aqui você vai encontrar diversos projetinhos desenvolvidos em Javascript, Typescript, React, Angular e NodeJs.
