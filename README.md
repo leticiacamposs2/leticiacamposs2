@@ -6,8 +6,7 @@ Aqui está algumas das minhas redes sociais e formas de contatos:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/leehcamposs2)
 [![Gmail Badge](https://img.shields.io/badge/-leehcamposs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehcamposs@gmail.com)](mailto:leehcamposs@gmail.com)
 
-Sou Leticia Campos, desenvolvedora de software, entusiasta de tecnologia e participante ativa de meetups, bootcamps e workshops.
-
-👩 25 anos, formada em gestão da tecnologia da informação pela <strong>unicsul</strong> e análise e desenvolvimento de sistemas pela <strong>fatec</strong>.
-💼 Desenvolvedor<i>a</i> na <strong>@totvs</strong>.
-📚 Venho direcionando os meus estudos em desenvolvimento web e aqui você vai encontrar diversos projetinhos desenvolvidos em Javascript, Typescript, React, Angular e NodeJs.
+- 👩 Sou Leticia Campos, tenho 25 anos, desenvolvedor<i>a</i> de software, entusiasta de tecnologia e participante ativa de meetups, bootcamps e workshops.
+- 🎓 Formada em gestão da tecnologia da informação pela <strong>unicsul</strong> e análise e desenvolvimento de sistemas pela <strong>fatec</strong>.
+- 💼 Analista e desenvolvedor<i>a</i> de software na <strong>@totvs</strong>.
+- 📚 Venho direcionando os meus estudos em desenvolvimento web e aqui você vai encontrar diversos projetinhos desenvolvidos em Javascript, Typescript, React, Angular e NodeJs.
