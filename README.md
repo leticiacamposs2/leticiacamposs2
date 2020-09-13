@@ -1,6 +1,7 @@
 ### Olá, seja bem-vindo ao meu perfil do GitHub 👋
 Aqui está algumas das minhas redes sociais e formas de contatos:
 
+![Front End](https://camo.githubusercontent.com/95a6f74b6744aca51c2b5c55d6f002f7280b439b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46726f6e7420456e642d416e67756c61722d663535323437)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leticiacamposs2)](https://github.com/leticiacamposs2)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacamposs/)](https://www.linkedin.com/in/leticiacamposs/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/leehcamposs2)
