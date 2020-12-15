@@ -7,8 +7,8 @@ Aqui está algumas das minhas redes sociais e formas de contatos:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/leehcamposs2)
 [![Gmail Badge](https://img.shields.io/badge/-leehcamposs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehcamposs@gmail.com)](mailto:leehcamposs@gmail.com)
 
-![Leticia Campos' Github Stats](https://github-readme-stats.vercel.app/api?username=leticiacamposs2&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacamposs2&layout=compact)
+![Leticia Campos' Github Stats](https://github-readme-stats.vercel.app/api?username=leticiacamposs2&show_icons=true&theme=tokyonight)	![Leticia Campos' Github Stats](https://github-readme-stats.vercel.app/api?username=leticiacamposs2&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacamposs2&layout=compact&theme=radical)
 
 Sobre mim:
 
