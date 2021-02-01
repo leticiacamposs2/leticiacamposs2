@@ -14,6 +14,6 @@ Sobre mim:
 
 - 👩 Sou Leticia Campos, desenvolvedor<i>a</i> de software, entusiasta de tecnologia e participante ativa de meetups, bootcamps e workshops.
 - 🎓 Formada em gestão da tecnologia da informação pela <strong>unicsul</strong> e análise e desenvolvimento de sistemas pela <strong>fatec</strong>.
-- 💼 Analista e desenvolvedor<i>a</i> de software no <strong>@banco-safra</strong>.
+- 💼 Engenheir<i>a</i> de software no <strong>@itau</strong>.
 - 📚 Venho direcionando os meus estudos em desenvolvimento web e aqui você vai encontrar diversos projetinhos desenvolvidos em Javascript, Typescript, React, Angular e NodeJs.
-- 🤓 Aprendendo sobre Jenkis, AngularJS, MongoDB, Jest, .Net e Design Patterns.
+- 🤓 Aprendendo sobre Jenkis, AngularJS, MongoDB, Jest, .Net, AWS e Design Patterns.
