@@ -6,7 +6,7 @@ Aqui está algumas das minhas redes sociais e formas de contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacamposs/)](https://www.linkedin.com/in/leticiacamposs/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/leehcamposs2)
 [![Gmail Badge](https://img.shields.io/badge/-leehcamposs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehcamposs@gmail.com)](mailto:leehcamposs@gmail.com)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/leehcamposs)](https://github.com/leticiacamposs2)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/leehcamposs)](https://www.hackerrank.com/leehcamposs)
 
 ![Leticia Campos' Github Stats](https://github-readme-stats.vercel.app/api?username=leticiacamposs2&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacamposs2&layout=compact&theme=radical)
