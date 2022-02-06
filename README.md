@@ -9,7 +9,6 @@ Aqui está algumas das minhas redes sociais e formas de contatos:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/leehcamposs)](https://www.hackerrank.com/leehcamposs)
 
 ![Leticia Campos' Github Stats](https://github-readme-stats.vercel.app/api?username=leticiacamposs2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacamposs2&layout=compact&theme=radical)
 
 Sobre mim:
 
